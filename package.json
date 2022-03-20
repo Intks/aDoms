@@ -24,7 +24,7 @@
     "cheerio": "^1.0.0-rc.3",
     "core-js": "^3.6.4",
     "gitmoji-cli": "^3.2.3",
-    "markdown-it": "^10.0.0",
+    "markdown-it": "^12.3.2",
     "markdown-it-container": "^2.0.0",
     "node-sass": "^7.0.0",
     "sass-loader": "^8.0.2",
